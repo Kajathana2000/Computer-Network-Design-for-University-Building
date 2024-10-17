@@ -90,3 +90,8 @@ vlan 10
 interface GigabitEthernet0/2
   switchport mode access
   switchport access vlan 10
+
+---
+
+## 🏁 Conclusion
+This project provides a comprehensive and secure computer network design for the university’s IT Centre and Department Building. The network ensures smooth operations through VLANs, subnetting, and access control mechanisms, enhancing performance and security across various departments and labs.
